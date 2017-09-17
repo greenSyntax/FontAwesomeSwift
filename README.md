@@ -9,6 +9,11 @@ Font Awesome is a Free Icon Package which gives you variety of Icons. Whether yo
 
 ### Steps
 1. Import font-awesome *fontawesome.ttf* file in your project and mention it in your Project's Info.plist file.
+![Image of Project](https://github.com/greenSyntax/FontAwesomeSwift/blob/master/project.png)
+
+Metion in your Info.plist, 
+![Image of Project](https://github.com/greenSyntax/FontAwesomeSwift/blob/master/plist.png)
+
 2. Font Awesome Icons are implicitly are the characters so, every Icon are UILable type.
 3. In Our case, You need to assign UILabel as SwiftFontAwesome type in your File Inspector.
 
