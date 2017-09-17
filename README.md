@@ -17,6 +17,9 @@ Metion in your Info.plist,
 ![Image of Infp.plist](https://github.com/greenSyntax/FontAwesomeSwift/blob/master/plist.png)
 
 2. Font Awesome Icons are implicitly are the characters so, every Icon are UILable type.
+
+![Image of Project](https://github.com/greenSyntax/FontAwesomeSwift/blob/master/label.png)
+
 3. In Our case, You need to assign UILabel as SwiftFontAwesome type in your File Inspector.
 
   ```swift
