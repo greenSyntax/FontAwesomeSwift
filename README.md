@@ -45,7 +45,7 @@ Metion in your Info.plist,
     myLabel.icon(type: .sortAmountAsc, withSize: .large, withColor: .green, shadowColor: .blue)
 
   ```
-### Icons Sizes,
+### Icon Sizes,
   * customSize (Default is 10)
   * extraSmall (12)
   * small (14)
@@ -57,3 +57,4 @@ Metion in your Info.plist,
 
 ### Feature Request or Bugs
 Please post any bugs to the issue tracker found on the project's GitHub page.
+
