@@ -38,7 +38,14 @@ Metion in your Info.plist,
   Here, *type:* is the name of Icon which belong to type *FontAwesomeIcon* enum.
   And, withSize: decides the size of icon.
 
-  ##### Icons Sizes,
+4. With Color Customization,
+
+  ```swift
+
+    myLabel.icon(type: .sortAmountAsc, withSize: .large, withColor: .green, shadowColor: .blue)
+
+  ```
+### Icons Sizes,
   * customSize (Default is 10)
   * extraSmall (12)
   * small (14)
@@ -47,14 +54,6 @@ Metion in your Info.plist,
   * extraLarge (20)
   * doubelExtraLarge (24)
   * tripleExtraLarge (32)
-
-4. With Color Customization,
-
-  ```swift
-
-    myLabel.icon(type: .sortAmountAsc, withSize: .large, withColor: .green, shadowColor: .blue)
-
-  ```
 
 ### Feature Request or Bugs
 Please post any bugs to the issue tracker found on the project's GitHub page.
